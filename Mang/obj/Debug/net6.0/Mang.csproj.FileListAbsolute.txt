@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\bin\Debug\net6.0\Mang.exe
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\bin\Debug\net6.0\Mang.deps.json
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\bin\Debug\net6.0\Mang.runtimeconfig.json
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\bin\Debug\net6.0\Mang.dll
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\bin\Debug\net6.0\Mang.pdb
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.AssemblyInfo.cs
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.dll
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\refint\Mang.dll
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.pdb
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\Mang.genruntimeconfig.cache
+C:\Users\Admin\Documents\Backend\Dot Net\Mang\Mang\obj\Debug\net6.0\ref\Mang.dll
