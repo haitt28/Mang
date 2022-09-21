@@ -37,16 +37,28 @@ namespace Mang
             //    {
             //        Console.WriteLine(mangsonguyen[i]);
             //    }
-            int[] numbers = { 3, 2, 5, 33, 67, 56, 10, 22, 3, 4, 6, 5 };
+            //int[] numbers = { 3, 2, 5, 33, 67, 56, 10, 22, 3, 4, 6, 5 };
 
-            // lấy ra số lớn nhất 
-            Console.WriteLine($"Phần tử lơn nhất : {numbers.Max()}");
-            // lấy ra số bé nhất
-            Console.WriteLine($"Phần tử bé nhất : {numbers.Min()}");
-            // lấy ra độ dài của mảng
-            Console.WriteLine($"Độ dài của mảng: {numbers.Length}");
-            // lấy ra loại mảng
-            Console.WriteLine($"Loại mảng : {numbers.Rank}");
+            //// lấy ra số lớn nhất 
+            //Console.WriteLine($"Phần tử lơn nhất : {numbers.Max()}");
+            //// lấy ra số bé nhất
+            //Console.WriteLine($"Phần tử bé nhất : {numbers.Min()}");
+            //// lấy ra độ dài của mảng
+            //Console.WriteLine($"Độ dài của mảng: {numbers.Length}");
+            //// lấy ra loại mảng
+            //Console.WriteLine($"Loại mảng : {numbers.Rank}");
+
+            int[,] songuyen = new int[3,4] { { 1, 2, 3, 4 }, { 0, 3, 1, 3 }, { 4, 2, 3, 4 } };
+            for(int i = 0; i <= 2; i++)
+            {
+               
+                for(int j = 0; j <= 3; j++)
+                {
+                    Console.Write(songuyen[i, j] + " ");
+                }
+                //Console.WriteLine();
+            }
+            Console.WriteLine(songuyen[2, 3]);
         }
     }
 } 
